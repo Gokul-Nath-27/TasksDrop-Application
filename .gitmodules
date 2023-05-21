@@ -1,3 +1,6 @@
 [submodule "TasksDrop-server"]
 	path = TasksDrop-server
 	url = https://github.com/Gokul-Nath-27/TasksDrop-server
+[submodule "TasksDrop-client"]
+	path = TasksDrop-client
+	url = https://github.com/Gokul-Nath-27/TasksDrop-client
