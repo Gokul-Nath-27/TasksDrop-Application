@@ -1,4 +1,14 @@
 
+# TasksDrop Application
+
+Developed a real-world full-stack MERN application for company use. The application allows company managers or admins to assign tasks to their employees. When an employee logs in, they can view their assigned tasks and update their status as completed. Implemented
+role-based access control among users,Users have different roles: "Employee," "Manager," and "Admin." The admin has full access, including the ability to delete users and tasks from the database. Managers can assign tasks to employees, while employees can only update their task body and status. A comprehensive login and logout system using JWT tokens and cookies.
+
+
+```python
+(Not yet fully functional for now, will be deployed soon with all the features) 
+```
+
 ### 📚 Middleware References
 - 🔗 [Express.js: Using Middleware](https://expressjs.com/en/guide/using-middleware.html)
 - 🔗 [cookie-parser](https://www.npmjs.com/package/cookie-parser)
