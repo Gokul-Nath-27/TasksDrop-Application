@@ -5,8 +5,8 @@ Developed a real-world full-stack MERN application for company use. The applicat
 role-based access control among users,Users have different roles: "Employee," "Manager," and "Admin." The admin has full access, including the ability to delete users and tasks from the database. Managers can assign tasks to employees, while employees can only update their task body and status. A comprehensive login and logout system using JWT tokens and cookies.
 
 
-```python
-(Not yet fully functional for now, will be deployed soon with all the features) 
+```
+(Not yet fully functional for now, will be deployed soon with all the features)
 ```
 
 ### 📚 Middleware References
